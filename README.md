@@ -1,14 +1,8 @@
 <h1 align="left">Hi 👋, I'm wissam almsalati</h1>
 <h3 align="left">A Mobile App Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@Wissam65704701" target="blank"><img src="https://img.shields.io/twitter/follow/wissamalmsalati?logo=twitter&style=for-the-badge" alt="wissamalmsalati" /></a> </p>
-
-- 🔭 I’m currently working on [GameArena App](https://github.com/WissamAlmsalati/gamearenaApp)
-
 - 🌱 I’m currently learning **Node Js**
-
-- 💬 Ask me about **Flutter**
-
+- 
 - 📫 How to reach me **wissamalmsalati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
