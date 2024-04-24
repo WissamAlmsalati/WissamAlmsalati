@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋, I'm wissam almsalati</h1>
+<h1 align="left">👋, I'm wissam almsalati</h1>
 <h3 align="left">A Mobile App Developer</h3>
 
 - 🌱 I’m currently learning **Node Js**
-- 
 - 📫 How to reach me **wissamalmsalati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
