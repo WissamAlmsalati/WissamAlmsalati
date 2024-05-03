@@ -1,6 +1,10 @@
 <h1 align="left">I'm Wissam Almsalati</h1>
-<h3 align="left">A Software Engineering Student And Mobile App Developer</h3>
 
+- 👨‍💻 Software Engineering Student | 📱 Flutter Mobile Developer
+
+- 🌟 Crafting delightful mobile experiences with Flutter while honing my skills as a software engineering student.
+
+- 🔍 Passionate about learning and exploring new technologies, and always striving to keep up with the latest trends in mobile development.
 
 - 🔭 I’m currently working on [Clothing store](https://github.com/WissamAlmsalati/ecomerce.git)
 
