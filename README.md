@@ -6,7 +6,7 @@
 
 - 🔍 Passionate about learning and exploring new technologies, and always striving to keep up with the latest trends in mobile development.
 
-- 🌱 I’m currently learning **Android Native And Flutter**
+- 🌱 I’m currently learning **Flutter And Android Native**
 
 - 📫 How to reach me : LinkedIn ([www.linkedin.com/in/wissam-almsalati-2b60a0235](https://www.linkedin.com/in/wissam-almsalati-2b60a0235/))
 
