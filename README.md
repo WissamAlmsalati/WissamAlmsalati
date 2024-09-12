@@ -1,4 +1,8 @@
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dna3JldGc2cHl4aDZ0bXBycG4wOTd3Z21vOGxzb2Z2MnJweWxtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif" width="400"/>
+
+
 <h1 align="left">I'm Wissam Almsalati</h1>
+
 
 - 👨‍💻 Software Engineering Student | 📱 Flutter Mobile Developer
 
