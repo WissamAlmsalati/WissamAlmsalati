@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Flutter And Kotlin**
 
-- 📫 How to reach me : LinkedIn ([www.linkedin.com/in/wissam-almsalati-2b60a0235](https://www.linkedin.com/in/wissam-almsalati-2b60a0235/))
-
 - 📫 How to reach me : email **wissamalmsalati@gmail.com**
 
 - My Resume [https://docs.google.com/document/d/1uyik1o90MTwB4FpU84yV1zltcDYjpUDXSFsigE6lmmM/edit?usp=sharing](https://docs.google.com/document/d/1uyik1o90MTwB4FpU84yV1zltcDYjpUDXSFsigE6lmmM/edit?usp=sharing)
