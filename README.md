@@ -1,4 +1,3 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWY2anQ5NWRyZmMyYThxMGRjM3VzZ3dxejZtenNidWR2aW82a2FoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" width="1000"/>
 
 <h1 align="left">I'm Wissam Almsalati</h1>
 
