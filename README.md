@@ -7,7 +7,7 @@
 
 - 🔍 Passionate about learning and exploring new technologies, and always striving to keep up with the latest trends in mobile development.
 
-- 🌱 I’m currently learning **Flutter And Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me : email **wissamalmsalati@gmail.com**
 
