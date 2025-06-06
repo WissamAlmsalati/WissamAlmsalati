@@ -1,4 +1,3 @@
-![PogPogsGIF](https://github.com/user-attachments/assets/3c813054-4de9-4c36-90bc-d76af9cee2d4)
 <h1 align="left">I'm Wissam Almsalati</h1>
 
 - 👨‍💻 Software Engineering Student | 💻 Full Stack Developer
