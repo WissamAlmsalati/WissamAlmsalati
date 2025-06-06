@@ -1,13 +1,13 @@
-
+![PogPogsGIF](https://github.com/user-attachments/assets/3c813054-4de9-4c36-90bc-d76af9cee2d4)
 <h1 align="left">I'm Wissam Almsalati</h1>
 
-- 👨‍💻 Software Engineering Student | 📱 Mobile Developer
+- 👨‍💻 Software Engineering Student | 💻 Full Stack Developer
 
 - 🌟 Crafting delightful mobile experiences with Flutter while honing my skills as a software engineering student.
 
 - 🔍 Passionate about learning and exploring new technologies, and always striving to keep up with the latest trends in mobile development.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me : email **wissamalmsalati@gmail.com**
 
