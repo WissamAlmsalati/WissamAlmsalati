@@ -2,13 +2,13 @@
 
 **Software Engineering Student | Full Stack Developer**
 
-🌟 Crafting delightful mobile experiences with Flutter while honing my skills as a software engineering student.
+Crafting delightful mobile experiences with Flutter while honing my skills as a software engineering student.
 
-🔍 Passionate about learning and exploring new technologies and always striving to keep up with the latest trends in mobile development.
+Passionate about learning and exploring new technologies and always striving to keep up with the latest trends in mobile development.
 
-🌱 I’m currently learning **Next.js**
+I’m currently learning **Next.js**
 
-📫 How to reach me: **wissamalmsalati@gmail.com**
+How to reach me: **wissamalmsalati@gmail.com**
 
 ## Languages and Tools
 <p align="left">
