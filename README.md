@@ -50,10 +50,6 @@ How to reach me: **wissamalmsalati@gmail.com**
   </a>
 </p>
 
-## GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissamalmsalati&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Wissam's Top Languages" />
-</p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wissamalmsalati&show_icons=true&theme=dracula&locale=en" alt="Wissam's GitHub Stats" />
