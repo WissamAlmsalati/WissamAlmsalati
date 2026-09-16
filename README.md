@@ -6,7 +6,7 @@ Building high-quality mobile apps with **Flutter**, backend systems with **Larav
 
 Also working as a Mobile Developer & DevOps Engineer at **Octobits**, shipping client apps end-to-end — from feature build to app store release — and designing CI/CD pipelines with GitHub Actions.
 
-Currently leveling up in **.NET** to round out my backend and enterprise development skills.
+Currently leveling up in **ASP.NET** to round out my backend and enterprise development skills.
 
 📍 Tripoli, Libya | ✉️ wissamalmsalati@gmail.com | 🌐 [wissam.ly](https://wissam.ly)
 
@@ -16,12 +16,12 @@ Currently leveling up in **.NET** to round out my backend and enterprise develop
 - **Web:** Next.js, TypeScript, React, Laravel, PHP
 - **Databases:** PostgreSQL, MySQL, SQL
 - **DevOps:** CI/CD (GitHub Actions), Git, deployment & server administration, production environment management
-- **Currently learning:** .NET / C#
+- **Currently learning:** ASP.NET / C#
 
 ## Languages and Tools
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET" width="40" height="40" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
